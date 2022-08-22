@@ -1,4 +1,4 @@
-Hello visitor!
+#Hello visitor!
 
 This is the presentation of my progress so far as a web developer. I am a journalist and historian studying IT and look forward to getting in touch with you.
 
