@@ -10,4 +10,4 @@ My <skills> at the end of the course will be:
 
 
 
-![67-5817c](http://www.wpmap.org/wp-content/uploads/2015/01/printable-world-map-political.jpg)
+![67-5817c](https://www.goodfreephotos.com/albums/other-photos/globe-of-world-map.jpg)
