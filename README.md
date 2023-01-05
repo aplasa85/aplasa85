@@ -8,5 +8,5 @@ My  acquired <skills> include:
 3. <b>Next js</b>
   
   I look forward to getting in touch for any professional or personal contact. 
-  
- <img width="733" alt="image" src="https://user-images.githubusercontent.com/107868311/210771541-019ee5ff-c741-44af-a81b-bac5df363771.png">
+
+  <img width="523" alt="image" src="https://user-images.githubusercontent.com/107868311/210771884-24621a7b-a387-41d8-99d3-b9cd2ae2f91c.png">
