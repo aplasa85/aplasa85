@@ -1,13 +1,12 @@
 __Hello visitor!__
 
-This is the presentation of my progress so far as a web developer. I am a Mexican-German journalist and historian studying IT and look forward to getting in touch with the world of web development. 
+I am a Mexican-German journalist and historian with  and look forward to getting in touch with the world of web development. 
 
-My <skills> at the end of the course will be:
+My  acquired <skills> include:
 1. <b>Javascript</b>
-2. <b>Html</b>
-3. <b>CSS</b>
-4. <b>React</b>
-
-
-
-![67-5817c](https://www.goodfreephotos.com/albums/other-photos/globe-of-world-map.jpg)
+2. <b>React</b>
+3. <b>Next js</b>
+  
+  I look forward to getting in touch for any professional or personal contact. 
+  
+ <img width="733" alt="image" src="https://user-images.githubusercontent.com/107868311/210771541-019ee5ff-c741-44af-a81b-bac5df363771.png">
