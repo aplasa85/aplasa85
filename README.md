@@ -1,6 +1,6 @@
 __Hello visitor!__
 
-I am a Mexican-German journalist and historian who has acquired new web development skills and is looking for new opportunities. 
+I am a Mexican-German journalist and historian who has acquired new web development skills and is looking for job opportunities in the sector. 
 
 My  current <skills> include:
 1. <b>Javascript</b>
